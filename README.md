@@ -10,6 +10,6 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=rahmatami113&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 &nbsp;
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmatami113&show_icons=true&theme=tokyonight)
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rahmatami113&theme=tokyonight)
-✨✨✨✨✨✨✨✨✨✨✨✨✨✨✨
+
