@@ -1,4 +1,4 @@
-### Hi there 👋 it's rahmataami
+### Hi there 👋
 
 
 🔭 I’m currently working on something cool
